@@ -1,2 +1,2 @@
 # HSE_ML
-openedu course dedicated to ML
+openedu ML course (Hi School of Economics)
